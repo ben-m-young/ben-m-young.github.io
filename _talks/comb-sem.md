@@ -5,6 +5,6 @@ type: "Combinatorics Seminar"
 permalink: /talks/combinatorics-seminar
 venue: "UW-Madison"
 date: 2024-02-19
-location: "Online"
+location: "USA"
 ---
 <a href="../files/comb_sem_2_19_24.pdf"> Slides </a>

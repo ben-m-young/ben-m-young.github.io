@@ -15,6 +15,8 @@
 
 See more info at https://academicpages.github.io/
 
+To edit main page: files/about.md
+
 ## Running locally
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:

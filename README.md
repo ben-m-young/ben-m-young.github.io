@@ -15,7 +15,7 @@
 
 See more info at https://academicpages.github.io/
 
-To edit main page: files/about.md
+To edit main page: pages/about.md
 
 ## Running locally
 

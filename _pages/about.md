@@ -16,7 +16,7 @@ I am also interested in quantum computing, especially as it relates to counting 
 
 I recently completed my PhD at the University of Wisconsin-Madison, advised by Professor 
 [Jin-Yi Cai](https://pages.cs.wisc.edu/~jyc/). You can find my PhD thesis
-<a href="../files/ben_young_thesis.pdf"> here</a> (<a href="../files/defense.pdf">slides</a>).
+<a href="https://asset.library.wisc.edu/1711.dl/K6S6FI5YGI5MZ8G/R/file-022af.pdf"> here</a> (<a href="../files/defense.pdf">slides</a>).
 
 I completed a B.S. and M.S. in Computer Science and B.A. in Mathematics at Case Western Reserve
 University in 2021, advised by Professor [Harold Connamacher](https://case.edu/engineering/about/faculty-and-staff-directory/harold-connamacher). My [M.S. thesis](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=case1618269661285196&disposition=inline) studied the connections between

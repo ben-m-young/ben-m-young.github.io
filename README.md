@@ -16,6 +16,7 @@
 See more info at https://academicpages.github.io/
 
 To edit main page: "_pages/about.md"
+To edit publications: "_pages/research.md"
 To edit header bar: "_data/navigation.yml"
 
 ## Running locally

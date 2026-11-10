@@ -14,7 +14,8 @@ Radu Curticapean, Daniel Neuen, Amir Nikabadi, Tim Seppelt, and Ben Young \\
 [arXiv: 2608.13382 [cs.LO]](https://arxiv.org/abs/2608.13382), 2026
 3. **Planar Graph Homomorphisms: A Dichotomy and a Barrier from Quantum Groups** \\
 Jin-Yi Cai, Ashwin Maran, and Ben Young \\
-[arXiv: 2601.23198 [cs.CC]](https://arxiv.org/abs/2601.23198), 2026
+[arXiv: 2601.23198 [cs.CC]](https://arxiv.org/abs/2601.23198), 2026 \\
+To appear at *ITCS 2027*
 4. **Vanishing Signatures, Orbit Closure, and the Converse of the Holant Theorem** \\
 Jin-Yi Cai and Ben Young \\
 [*ITCS 2026*](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.32)
